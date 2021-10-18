@@ -1,0 +1,3 @@
+Hi,
+I'm Mehedi Hasan.
+This is notepad created by JAVA.
